@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://MJBishop.github.io',
                 'git_url': 'https://github.com/MJBishop/nbdev-tdd',
                 'lib_path': 'nbdev_tdd'},
-  'syms': {'nbdev_tdd.core': {'nbdev_tdd.core.foo': ('core.html#foo', 'nbdev_tdd/core.py')}}}
+  'syms': { 'nbdev_tdd.core': { 'nbdev_tdd.core.foo': ('core.html#foo', 'nbdev_tdd/core.py'),
+                                'nbdev_tdd.core.say_hello': ('core.html#say_hello', 'nbdev_tdd/core.py'),
+                                'nbdev_tdd.core.test_foo': ('core.html#test_foo', 'nbdev_tdd/core.py')}}}

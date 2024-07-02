@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tdd"
+  site-url: "https://MJBishop.github.io/nbdev-tdd"
+  description: "TDD with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/MJBishop/nbdev-tdd"
